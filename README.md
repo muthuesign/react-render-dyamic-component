@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dynamically rendering a react component through another component
 
 ## Available Scripts
 
